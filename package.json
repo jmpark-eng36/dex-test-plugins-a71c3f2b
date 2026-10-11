@@ -53,7 +53,8 @@
     "stream-browserify": "^3.0.0",
     "wagmi": "^2.15.4",
     "woofi-swap-widget-kit": "^0.0.51",
-    "zod": "4.4.3"
+    "zod": "4.4.3",
+    "esbuild": "0.28.2"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
