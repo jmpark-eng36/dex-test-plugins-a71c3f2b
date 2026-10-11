@@ -13852,10 +13852,10 @@ optionator@^0.9.3:
     type-check "^0.4.0"
     word-wrap "^1.2.5"
 
-orderly-plugin-liquidity-heatmap@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/orderly-plugin-liquidity-heatmap/-/orderly-plugin-liquidity-heatmap-1.0.1.tgz#0c9e6781755d5e11126459b9f7b20bd3f66e0d2f"
-  integrity sha512-tHOyyjtNqAJIi54yMj9G+VYVc1cygyvCSQz9L9nmD/nblxPzHRnc89SYD7v94le4BCpjrpMy/iKUNmE85MBQZQ==
+orderly-plugin-liquidity-heatmap@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/orderly-plugin-liquidity-heatmap/-/orderly-plugin-liquidity-heatmap-1.0.2.tgz#bd2146cfa35b4881abfcff0c873acc3c1007a260"
+  integrity sha512-YWL+1O0F3BSoXjhTGkUeT08rUBK7kxz3BTIMLwbn9ZiuagsvP4DmRiiT+3AmA9euYaEftOAendLLWRMtzrxafg==
 
 os-browserify@^0.3.0:
   version "0.3.0"
