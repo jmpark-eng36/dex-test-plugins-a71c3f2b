@@ -2,6 +2,6 @@
   "version": 1,
   "dependencies": {
     "esbuild": "0.28.2",
-    "orderly-plugin-liquidity-heatmap": "1.0.0"
+    "orderly-plugin-liquidity-heatmap": "1.0.1"
   }
 }
