@@ -55,7 +55,7 @@
     "woofi-swap-widget-kit": "^0.0.51",
     "zod": "4.4.3",
     "esbuild": "0.28.2",
-    "orderly-plugin-liquidity-heatmap": "1.0.0"
+    "orderly-plugin-liquidity-heatmap": "1.0.1"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
